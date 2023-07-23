@@ -1,6 +1,6 @@
 # UrlShorteners.py
 
-Encurtador de url simples para terminal feito em python.
+Encurtador de url simples com gerador de Qrcode para terminal feito em python.
 
 ## Instalação
 
@@ -23,9 +23,3 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
-
----
-
-## Outro metodo
-
-Você também pode usar ele no seu navegador sem precisar instalar nada, basta entrar no link a seguir: https://tinyurl.com/26meeea2
