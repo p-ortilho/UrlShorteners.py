@@ -1,2 +1,4 @@
-art
+qrcode
 pyshorteners
+colorama
+art
